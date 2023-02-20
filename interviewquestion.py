@@ -452,7 +452,7 @@
 # if (regex.search(str1)==None):
 #     print("no special characters present in a string")
 # else:
-#     print("string contains special digits or characters")
+#     print("string contains special digits so its a string")
 
 
 
